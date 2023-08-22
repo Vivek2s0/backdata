@@ -23,11 +23,12 @@
       "id": 2
     }
   ],
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "title": "Car",
+      "price": 850000,
+      "quantity":2
     }
   ]
 }
